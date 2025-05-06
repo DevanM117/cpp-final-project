@@ -11,6 +11,7 @@ void Database::listCharacters() const {
         std::cout << "Alias: " << character.alias << "\n"
                   << "Name: " << character.name << "\n"
                   << "Affiliations: " << character.affiliations << "\n"
+                  << "Mutant Level: " << character.mutantLevel << "\n"
                   << "Powers: ";
         for (const auto& power : character.powers) {
             std::cout << power << ", ";
@@ -22,10 +23,11 @@ void Database::listCharacters() const {
 void Database::searchByAlias(const std::string& alias) const {
     for (const auto& character : characters) {
         if (character.alias == alias) {
-            std::cout << "Found Character: " << "\n"
+            std::cout << "Found Character: \n"
                       << "Alias: " << character.alias << "\n"
                       << "Name: " << character.name << "\n"
                       << "Affiliations: " << character.affiliations << "\n"
+                      << "Mutant Level: " << character.mutantLevel << "\n"
                       << "Powers: ";
             for (const auto& power : character.powers) {
                 std::cout << power << ", ";

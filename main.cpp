@@ -7,9 +7,10 @@ int main() {
     Database db;
 
     // Add characters
-    db.addCharacter({"Charles Xavier", "Professor X", "X-Men", {"Telepathy", "Mind control", "Telekinesis"}});
-    db.addCharacter({"Wolverine", "Logan", "X-Men", {"Regenerative Healing Factor", "Enhanced senses", "Claws"}});
-    db.addCharacter({"Storm", "Ororo Munroe", "X-Men", {"Weather manipulation", "Flight"}});
+    db.addCharacter({"Charles Xavier", "Professor X", "X-Men", {"Telepathy", "Mind control", "Telekinesis"}, "Alpha"});
+    db.addCharacter({"Wolverine", "Logan", "X-Men", {"Regenerative Healing Factor", "Enhanced senses", "Claws"}, "Beta"});
+    db.addCharacter({"Storm", "Ororo Munroe", "X-Men", {"Weather manipulation", "Flight"}, "Omega"});
+    db.addCharacter({"Magneto", "Erik Lehnsherr", "Brotherhood of Mutants", {"Magnetism manipulation", "Electromagnetic field control"}, "Omega"});
 
     int choice;
     do {
