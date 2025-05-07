@@ -71,8 +71,8 @@ int main() {
     db.addCharacter({"Eva Bell", "Tempus", "X-Men", {"Time manipulation"}, "Beta"});
     db.addCharacter({"Wade Wilson", "Deadpool", "X-men, Avengers, Brotherhood of Mutants, Deadpool Inc.", {"Advanced Healing factor, Immortality, Superhuman strength, Superhuman ability, Superhuman speed"}, "Not a Mutant"});
     db.addCharacter({"Wanda Maximoff", "Scarlet Witch", "Avengers, Brotherhood of Mutants", {"Chaos Magic"}, "Pre 2015: Omega Post: Not a mutant"});
-    db.addCharacter({"Pietro Maximoff", "Quicksilver", "Avengers, X-Men, Brotherhood of Mutants"{"Super Speed, Enhanced durability"}, "Pre 2015: Alpha Post: Not a mutant"});
-    db.addCharacter({"Franklin Richards", "Avatar, Ego-Spawn, Powerhouse, etc."{"Reality manipulation, Telekinesis, Telepathy"}, "Pre 2020: Omega Post: Not a mutant"});
+    db.addCharacter({"Pietro Maximoff", "Quicksilver", "Avengers, X-Men, Brotherhood of Mutants", {"Super Speed, Enhanced durability"}, "Pre 2015: Alpha Post: Not a mutant"});
+    db.addCharacter({"Franklin Richards", "Legion", "X-Men, Future Foundation, Power Pack", {"Reality manipulation", "Telekinesis", "Telepathy"}, "Pre 2020: Omega Post: Not a mutant"});
     db.addCharacter({"Cassandra Nova Xavier", "Cassandra Nova", "X-Men", {"Telepathy", "Possession", "Mummudrai powers", "Genetic manipulation"}, "Omega"});
     db.addCharacter({"Nathaniel Essex", "Mister Sinister", "Hellfire Club, Marauders", {"Telepathy", "Regeneration", "Shapeshifting", "Genetic manipulation", "Super strength"}, "Alpha"});
     db.addCharacter({"Philippa Sontag", "Arclight", "Marauders", {"Shockwave generation", "Super strength"}, "Beta"});
