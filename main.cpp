@@ -77,6 +77,7 @@ int main() {
     db.addCharacter({"Nathaniel Essex", "Mister Sinister", "Hellfire Club, Marauders", {"Telepathy", "Regeneration", "Shapeshifting", "Genetic manipulation", "Super strength"}, "Alpha"});
     db.addCharacter({"Philippa Sontag", "Arclight", "Marauders", {"Shockwave generation", "Super strength"}, "Beta"});
     db.addCharacter({"Lorna Dane", "Polaris", "X-Men, X-Factor", {"Magnetism manipulation", "Magnetic field control", "Flight"}, "Alpha"});
+    db.addCharacter({"Namor McKenzie", "Namor", "Avengers, Fantastic Four, X-Men", {"Superhuman strength", "Superhuman speed", "Superhuman agility", "Superhuman stamina", "Superhuman durability","Communicates with Fish"}, "Alpha"});
 
     int choice;
     do {
