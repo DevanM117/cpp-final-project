@@ -2,7 +2,7 @@
 # Marvel Mutant Character Database
 
 ## Description
-This program manages a database of Marvel mutant characters. It allows users to:
+This program manages a database of Marvel mutant characters and characters thought to be Mutant. It allows users to:
 - List all characters
 - Search for a character by alias
 
