@@ -8,7 +8,7 @@ This program manages a database of Marvel mutant characters. It allows users to:
 
 ## How to Run
 1. Open in GitHub CodeSpaces.
-2. Compile the code using `g++ main.cpp Database.cpp -o mutant_db`.
+2. Compile the code using `g++ main.cpp Database.cpp character.cpp -o mutant_db`.
 3. Run the program using `./mutant_db`.
 
 ## Features
