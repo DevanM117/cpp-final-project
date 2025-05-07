@@ -9,7 +9,7 @@ int main() {
     db.addCharacter({"Charles Xavier", "Professor X", "X-Men, Horsemen of the Apocolypse", {"Telepathy", "Mind control", "Telekinesis"}, "Alpha"});
     db.addCharacter({"Logan, James Howlett", "Wolverine", "X-Men, Avengers, Hydra", {"Regenerative Healing Factor", "Enhanced senses", "Claws"}, "Beta"});
     db.addCharacter({"Ororo Munroe", "Storm", "X-Men, Horsemen of the Apocolypse, Avengers", {"Weather manipulation", "Flight"}, "Omega"});
-    db.addCharacter({"Erik Lehnsherr, Max Eisenhardt, Magnus", "Magneto", "Brotherhood of Mutants, X-Men, Horsemen of the Apocolypse", {"Magnetism manipulation", "Electromagnetic field control", "Enhanced Perception"}, "Omega"});
+    db.addCharacter({"Erik Lehnsherr, Max Eisenhardt, Magnus", "Magneto", "Brotherhood of Mutants, X-Men, Marauders, Horsemen of the Apocolypse", {"Magnetism manipulation", "Electromagnetic field control", "Enhanced Perception"}, "Omega"});
     db.addCharacter({"Scott Summers", "Cyclops", "X-Men", {"Optic blasts"}, "Alpha"});
     db.addCharacter({"Jean Grey", "Jean Grey", "X-Men",{"Telepathy", "Telekinesis", "Phoenix Force"}, "Omega"});
     db.addCharacter({"Hank McCoy", "Beast", "X-Men", {"Super strength", "Agility", "Genius intellect"}, "Beta"});
@@ -69,7 +69,14 @@ int main() {
     db.addCharacter({"Hope Summers", "Hope Summers", "X-Men", {"Power mimicry", "Omega potential"}, "Omega"});
     db.addCharacter({"Josh Foley", "Elixir", "X-Men", {"Biological manipulation", "Healing", "Death touch"}, "Beta"});
     db.addCharacter({"Eva Bell", "Tempus", "X-Men", {"Time manipulation"}, "Beta"});
-    
+    db.addCharacter({"Wade Wilson", "Deadpool", "X-men, Avengers, Brotherhood of Mutants, Deadpool Inc.", {"Advanced Healing factor, Immortality, Superhuman strength, Superhuman ability, Superhuman speed"}, "Not a Mutant"});
+    db.addCharacter({"Wanda Maximoff", "Scarlet Witch", "Avengers, Brotherhood of Mutants", {"Chaos Magic"}, "Pre 2015: Omega Post: Not a mutant"});
+    db.addCharacter({"Pietro Maximoff", "Quicksilver", "Avengers, X-Men, Brotherhood of Mutants"{"Super Speed, Enhanced durability"}, "Pre 2015: Alpha Post: Not a mutant"});
+    db.addCharacter({"Franklin Richards", "Avatar, Ego-Spawn, Powerhouse, etc."{"Reality manipulation, Telekinesis, Telepathy"}, "Pre 2020: Omega Post: Not a mutant"});
+    db.addCharacter({"Cassandra Nova Xavier", "Cassandra Nova", "X-Men", {"Telepathy", "Possession", "Mummudrai powers", "Genetic manipulation"}, "Omega"});
+    db.addCharacter({"Nathaniel Essex", "Mister Sinister", "Hellfire Club, Marauders", {"Telepathy", "Regeneration", "Shapeshifting", "Genetic manipulation", "Super strength"}, "Alpha"});
+    db.addCharacter({"Philippa Sontag", "Arclight", "Marauders", {"Shockwave generation", "Super strength"}, "Beta"});
+    db.addCharacter({"Lorna Dane", "Polaris", "X-Men, X-Factor", {"Magnetism manipulation", "Magnetic field control", "Flight"}, "Alpha"});
 
     int choice;
     do {
