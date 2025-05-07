@@ -9,7 +9,7 @@ int main() {
     db.addCharacter({"Charles Xavier", "Professor X", "X-Men, Horsemen of the Apocolypse", {"Telepathy", "Mind control", "Telekinesis"}, "Alpha"});
     db.addCharacter({"Logan, James Howlett", "Wolverine", "X-Men, Avengers, Hydra", {"Regenerative Healing Factor", "Enhanced senses", "Claws"}, "Beta"});
     db.addCharacter({"Ororo Munroe", "Storm", "X-Men, Horsemen of the Apocolypse, Avengers", {"Weather manipulation", "Flight"}, "Omega"});
-    db.addCharacter({"Erik Lehnsherr, Max Eisenhardt, Magnus", "Magneto", "Brotherhood of Mutants, X-Men, Marauders, Horsemen of the Apocolypse", {"Magnetism manipulation", "Electromagnetic field control", "Enhanced Perception"}, "Omega"});
+    db.addCharacter({"Erik Lehnsherr, Max Eisenhardt, Magnus", "Magneto", "Brotherhood of Mutants, X-Men, Marauders, Horsemen of the Apocolypse", {"Magnetism manipulation", "Electromagnetic field control", "Flight", "Enhanced Perception"}, "Omega"});
     db.addCharacter({"Scott Summers", "Cyclops", "X-Men", {"Optic blasts"}, "Alpha"});
     db.addCharacter({"Jean Grey", "Jean Grey", "X-Men",{"Telepathy", "Telekinesis", "Phoenix Force"}, "Omega"});
     db.addCharacter({"Hank McCoy", "Beast", "X-Men", {"Super strength", "Agility", "Genius intellect"}, "Beta"});
